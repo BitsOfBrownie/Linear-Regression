@@ -34,9 +34,9 @@ namespace Linear_Regression
         private void Form1_Load(object sender, EventArgs e)
         {
             // setting each matrix to read from a CSV or TXT file
-           xMatrix  = DelimitedReader.Read<double>(@"C:\Users\j23b9\10975\Files\YMatrix.txt", false, ",", false);
-           xMatrix1 = DelimitedReader.Read<double>(@"C:\Users\j23b9\10975\Files\MSFT2.csv", false, ",", false);
-           yMatrix = DelimitedReader.Read<double>(@"C:\Users\j23b9\10975\Files\MSFT1.csv", false, ",", false);
+           xMatrix  = DelimitedReader.Read<double>(@"C:\Users\j23b9\10975\Files\StockMKTopenDays2.txt", false, ",", false);
+           xMatrix1 = DelimitedReader.Read<double>(@"C:\Users\j23b9\10975\Files\StockMKTopenDays.csv", false, ",", false);
+           yMatrix = DelimitedReader.Read<double>(@"C:\Users\j23b9\10975\Files\MSFTdaily.csv", false, ",", false);
 
         }
 
