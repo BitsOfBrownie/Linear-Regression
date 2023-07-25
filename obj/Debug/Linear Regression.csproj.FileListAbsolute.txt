@@ -1,0 +1,16 @@
+C:\Users\j23b9\10975\SoloProjects\LEEETMcYeet\Linear Regression\bin\Debug\Linear Regression.exe.config
+C:\Users\j23b9\10975\SoloProjects\LEEETMcYeet\Linear Regression\bin\Debug\Linear Regression.exe
+C:\Users\j23b9\10975\SoloProjects\LEEETMcYeet\Linear Regression\bin\Debug\Linear Regression.pdb
+C:\Users\j23b9\10975\SoloProjects\LEEETMcYeet\Linear Regression\bin\Debug\MathNet.Numerics.Data.Text.dll
+C:\Users\j23b9\10975\SoloProjects\LEEETMcYeet\Linear Regression\bin\Debug\MathNet.Numerics.dll
+C:\Users\j23b9\10975\SoloProjects\LEEETMcYeet\Linear Regression\bin\Debug\MathNet.Numerics.xml
+C:\Users\j23b9\10975\SoloProjects\LEEETMcYeet\Linear Regression\bin\Debug\MathNet.Numerics.Data.Text.xml
+C:\Users\j23b9\10975\SoloProjects\LEEETMcYeet\Linear Regression\obj\Debug\Linear Regression.csproj.AssemblyReference.cache
+C:\Users\j23b9\10975\SoloProjects\LEEETMcYeet\Linear Regression\obj\Debug\Linear Regression.csproj.SuggestedBindingRedirects.cache
+C:\Users\j23b9\10975\SoloProjects\LEEETMcYeet\Linear Regression\obj\Debug\Linear_Regression.Form1.resources
+C:\Users\j23b9\10975\SoloProjects\LEEETMcYeet\Linear Regression\obj\Debug\Linear_Regression.Properties.Resources.resources
+C:\Users\j23b9\10975\SoloProjects\LEEETMcYeet\Linear Regression\obj\Debug\Linear Regression.csproj.GenerateResource.cache
+C:\Users\j23b9\10975\SoloProjects\LEEETMcYeet\Linear Regression\obj\Debug\Linear Regression.csproj.CoreCompileInputs.cache
+C:\Users\j23b9\10975\SoloProjects\LEEETMcYeet\Linear Regression\obj\Debug\Linear Regression.csproj.CopyComplete
+C:\Users\j23b9\10975\SoloProjects\LEEETMcYeet\Linear Regression\obj\Debug\Linear Regression.exe
+C:\Users\j23b9\10975\SoloProjects\LEEETMcYeet\Linear Regression\obj\Debug\Linear Regression.pdb
